@@ -16,7 +16,9 @@ $(function(){
 
 // gallery div
   $('.slides-wrapper').slick({
-
+    autoplay:true,
+    autoplaySpeed:4000,
+    speed:1000,
     dots:false,
     adaptiveHeight:false,
     infinite:true,

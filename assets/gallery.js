@@ -12,8 +12,8 @@ $('#future').click(function(){
 
 });
 
-$(function(){
-
+// $(function(){
+//
 // gallery div
 //   $('.slides-wrapper').slick({
 //     autoplay:true,

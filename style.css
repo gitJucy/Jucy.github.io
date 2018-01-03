@@ -70,12 +70,12 @@ bottom:30%;
   font-weight: bolder;
   letter-spacing: .2em;
 }
-/* i{
+i{
   color:rgb(46,46,46);
   padding:0 30px;
-} */
+}
 img {
-  margin: 8px;
+  margin: 12px;
   width:100%;
 }
 #gallery-pic{

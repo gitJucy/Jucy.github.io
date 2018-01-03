@@ -75,11 +75,15 @@ i{
   padding:0 30px;
 }
 img {
+  
   margin: 12px;
   width:100%;
+  padding:0 20px 0 0px;
 }
 #gallery-pic{
   display:none;
+  vertical-align: middle;
+  
 }
 /*mobile responsive styling*/
 @media (max-width:750px){
